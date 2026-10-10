@@ -2,14 +2,17 @@
   "id": "/batman/",
   "name": "Rishi Music",
   "short_name": "Rishi Music",
-  "description": "Personal Audio Station",
+  "description": "Personal Audio Station - Rishi Music",
   "start_url": "/batman/",
   "scope": "/batman/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0b0b0f",
   "theme_color": "#0b0b0f",
-  "categories": ["music", "entertainment"],
+  "categories": [
+    "music",
+    "entertainment"
+  ],
   "prefer_related_applications": false,
   "icons": [
     {
